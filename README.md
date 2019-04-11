@@ -33,6 +33,13 @@ Setting up (Windows)
 
 9. Launch jupyter lab, code strategies and run!
 
+Overview
+--------
+
+####Database Layout
+
+![alt text](https://github.com/ehsueh/cryptools/blob/master/database/entity-relationship-diagram.png "entity relationship diagram")
+
 Reference and Documentations
 ----------------------------
 
