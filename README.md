@@ -29,9 +29,9 @@ Setting up (Windows)
 
 7. Run setup-db.sql in the workbench
 
-8. Set up config.yaml (see the example file)
+8. Set up config.yml (see config.yml.example file)
 
-9. Launch jupyter lab, code strategies and run!
+9. Launch jupyter lab from ./playbook, code strategies and run! Go to main.ipynb and change the "strategy" section.
 
 Overview
 --------
