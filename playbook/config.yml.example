@@ -1,0 +1,10 @@
+mysql:
+    host: "localhost"
+    user: "root"
+    passwd: "foo"
+    db: "cryptools"
+
+huobipro: 
+    apiKey: "foo"
+    secret: "foo"
+    
